@@ -17,7 +17,6 @@
 * memo: https://hackpad.com/-AGU-Drone-Aerial-Research--cPAibpRMxEH
 * data: https://github.com/furuhashilab/FreshersSeminar2015/issues/2
 
-
 **AGU StreetView**
 
 * memo: https://hackpad.com/AGU-streetview-c9wjhaXIYet
