@@ -9,7 +9,7 @@
 
 
 **AGU Building Element View**
-
+* memo: https://hackpad.com/AGU-Building-Element-Viewer-EWGg3hK3JFx
 
 **AGU Drone Aerial Research**
 
@@ -17,6 +17,8 @@
 
 
 **AGU StreetView**
+
+* memo:https://hackpad.com/AGU-streetview-c9wjhaXIYet
 
 
 *© Furuhashi Lab, AoyamaGakuin, CC BY 4.0*
