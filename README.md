@@ -16,11 +16,12 @@
 
 * memo: https://hackpad.com/-AGU-Drone-Aerial-Research--cPAibpRMxEH
 * data: https://github.com/furuhashilab/FreshersSeminar2015/issues/2
-
+* https://wiki.openstreetmap.org/wiki/AGU_Drone_Aerial_Research
 
 **AGU StreetView**
 
 * memo: https://hackpad.com/AGU-streetview-c9wjhaXIYet
 * data: https://github.com/furuhashilab/FreshersSeminar2015/issues/5
+* OSMwiki: https://wiki.openstreetmap.org/wiki/AGU_StreetView
 
 *© Furuhashi Lab, AoyamaGakuin, CC BY 4.0*
